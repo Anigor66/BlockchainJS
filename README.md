@@ -2,4 +2,5 @@
 <br>
 To run the code:
 <br>
-npm install
+1. npm install
+2. npm start
