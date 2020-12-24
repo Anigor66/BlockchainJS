@@ -1,4 +1,4 @@
-#Blockchain Implementation in JS# 
+**Blockchain Implementation in JS**
 <br>
 To run the code:
 <br>
